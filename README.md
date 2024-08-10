@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a7d881188133463.6596eba54986f.gif"  />
+  <img height="200" src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg"  />
 </div>
 
 ###
