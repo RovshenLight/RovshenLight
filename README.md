@@ -16,3 +16,5 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" />
 
 ###
+
+<canvas class="canvas js-canvas w-64 md:w-80" width="500" height="500"></canvas>
