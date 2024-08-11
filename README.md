@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://cdn.svgator.com/images/2021/10/space-robot-animation.svg" alt="Background" width="100%" />
+<div align="center" backgroun="red">
+  <img src="https://cdn.svgator.com/images/2021/10/animated-astronaut-illustration.svg" width="100%" />
 
   <img height="200" src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg" />
 </div>
