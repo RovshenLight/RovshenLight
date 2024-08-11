@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://example.com/your-animated-background.svg" alt="Animated Background" width="100%" />
-</div>
+  <img src="https://cdn.svgator.com/images/2023/06/newtons-cradle-animation.svg" alt="Background" width="100%" />
 
-<div align="center">
   <img height="200" src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg" />
 </div>
 
