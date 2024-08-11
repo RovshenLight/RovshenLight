@@ -17,4 +17,3 @@
 
 ###
 
-<canvas class="js-canva" width="500" height="500"></canvas>
