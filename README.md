@@ -17,4 +17,4 @@
 
 ###
 
-<canvas class="canvas js-canvas w-64 md:w-80" width="500" height="500"></canvas>
+<canvas class="js-canva" width="500" height="500"></canvas>
