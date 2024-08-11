@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.svgator.com/images/2023/06/newtons-cradle-animation.svg" alt="Background" width="100%" />
+  <img src="https://cdn.svgator.com/images/2021/10/space-robot-animation.svg" alt="Background" width="100%" />
 
   <img height="200" src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg" />
 </div>
